@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1B931693-1001-1511-0000-00E02AE34DEA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MhDemo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
